@@ -5,7 +5,7 @@ import WelcomeScreen from '../screens/WelcomeScreen';
 import RegisterScreen from '../screens/RegisterScreen';
 import LoginScreen from '../screens/LoginScreen';
 import ForgotPasswordScreen from '../screens/ForgotPasswordScreen';
-
+//import Add.js from '../screens/Add'
 const Stack = createStackNavigator();
 
 export default function AuthStack() {
